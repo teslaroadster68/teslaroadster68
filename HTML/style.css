@@ -1,0 +1,36 @@
+/*
+#d{
+    position:absolute;
+    height:800px;
+    color:black;
+    left:0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    text-align: center;
+    z-index: 9;
+}
+*/
+#d{
+position: absolute; height: 800px; color: #FFFFFF; left: 0; top: 0; bottom: 0; right: 0; opacity: 0.83; background: linear-gradient(#60ebeb 0%, #27ae60 100%); display: table; width: 100%;  z-index: 9;}
+#aakpaak{ 
+    padding: 50px; 
+    text-align: center;
+    padding-top: 20px;
+}
+
+body { margin: 0; padding-top: 800px; text-align: center; }
+.links{
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top:15px;
+}
+.menu{
+    list-style: none;
+    cursor:pointer;
+}
